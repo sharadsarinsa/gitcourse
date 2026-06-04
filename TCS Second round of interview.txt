@@ -1,0 +1,27 @@
+TCS Second round of interview :
+
+Initramfs corrupted how you will fix 
+
+Performance analysis in linux ?
+
+Kernel panic in linux how to troubleshoot and fix ?
+
+Sssh is slow ?
+
+DNS resolution is not working ?
+
+TTL value >
+
+LDAP related queries fix etc ?
+ldap port number Port 636
+
+Application is not able to reache to the destination host ? (application dns resolution not happening or slow)
+
+AWS ?
+EC2 was not come to fix 
+how will restore the services ? new EC2 instace 
+
+
+Kubernetes, performance analysis, autoscaling , errors ports not coming up, images not coming up from registry  ?
+
+Docker image getting dealyed how to fix ? 
